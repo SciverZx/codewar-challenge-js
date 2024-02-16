@@ -13,4 +13,4 @@
 
 const countBy = (x, n) => Array(n).fill().map((el, i) => (i + 1) * x);
 
-console.log(countBy(2,5))
+console.log(countBy(2,5));
