@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024 
-// day1 9/366
+// day2 9/366
 // https://www.codewars.com/kata/577a98a6ae28071780000989
 
 // var min = (list) => {
